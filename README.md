@@ -6,4 +6,6 @@
 - 🤔 I’m looking for help with ...
 - 📫 How to reach me: ghomri.imad1@gmail.com
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benmez1n)](https://github.com/benmez1n/github-readme-stats)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=benmez1n&show_icons=true&theme=dracula)
