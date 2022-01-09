@@ -6,5 +6,4 @@
 - 🤔 I’m looking for help with ...
 - 📫 How to reach me: ghomri.imad1@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=benmez1n)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=benmez1n&show_icons=true&theme=dracula)
