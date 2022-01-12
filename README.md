@@ -2,7 +2,6 @@
 ## I'm junior frontend developer and Network engineer 
 
 
-- 🌱 I’m currently learning React.js
 - 📫 How to reach me: ghomri.imad1@gmail.com
 
 
