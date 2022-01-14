@@ -1,5 +1,5 @@
 # Hi I'm Benmeziane 👋
-## I'm junior frontend developer and Network engineer 
+## I'm frontend developer and Network engineer 
 
 
 - 📫 How to reach me: ghomri.imad1@gmail.com
