@@ -2,7 +2,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ghomri-benmeziane-imad-ddine/) 
 
-# 🕰️ Coding Time 
+# 🕰️ Coding Time since Sep. 2024
 [![wakatime](https://wakatime.com/badge/user/757f9777-eb31-4e80-9630-68b42ced344c.svg)](https://wakatime.com/@757f9777-eb31-4e80-9630-68b42ced344c)
 
 # 💻 Tech Stack:
